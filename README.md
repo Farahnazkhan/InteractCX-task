@@ -1,2 +1,2 @@
 # InteractCX-task
-Built a DialogFlow agent and set up a webhook in order to make a post request to an api. 
+Created a REST API that can receive a webhookrequest from a DialogFlow agent and sends a post request to an API to get the required information.
